@@ -1,0 +1,7 @@
+{
+ #   "dl": "http://loongson-sd:3000/api/v1/crates/{crate}/{version}/download",
+ #   "api": "http://loongson-sd:3000",
+  "dl": "http://10.2.10.29:3000/api/v1/crates/{crate}/{version}/download",
+  "api": "http://10.2.10.29:3000",
+  "allowed-registries": ["git@github.com:songding-sd/Rust-create.git"]
+}
